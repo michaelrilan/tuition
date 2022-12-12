@@ -10,7 +10,7 @@
         tuition_val = tuitionn.Text
         inflation_val = inflationn.Text / 100
         year_val = yearr.Text
-        resultss = resultss + (resultss * inflation_val)
+
         While year_val >= n
             tuition_val = tuition_val + (tuition_val * inflation_val)
             n = n + 1
