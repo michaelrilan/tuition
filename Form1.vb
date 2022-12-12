@@ -3,7 +3,6 @@
         Dim name_val As String
         Dim tuition_val As Integer
         Dim inflation_val As Double
-        Dim resultss As Integer
         Dim year_val As Integer
         Dim n As Integer = 1
         name_val = namee.Text
